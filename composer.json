@@ -9,6 +9,11 @@
             "email": "madness.studio@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "MadnessCODE\\Copyscape\\": "src/"
+        }
+    },
     "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "5.3.2"
