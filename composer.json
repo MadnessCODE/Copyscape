@@ -1,6 +1,6 @@
 {
     "name": "madnesscode/copyscape",
-    "description": "Copyspace API",
+    "description": "Copyscape API",
     "type": "library",
     "license": "MIT",
     "authors": [
