@@ -1,0 +1,14 @@
+{
+    "name": "madnesscode/copyscape",
+    "description": "Copyspace API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marko Janosevic",
+            "email": "madness.studio@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
